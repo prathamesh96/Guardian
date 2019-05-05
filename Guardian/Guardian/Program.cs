@@ -14,8 +14,9 @@ namespace Guardian
         }
 
 
-        public static void Display() {
-
+        public static void Display()
+        {
+            Console.WriteLine("Display Method Changed by Member Two");
         }
     }
 }
