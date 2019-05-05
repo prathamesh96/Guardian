@@ -16,7 +16,7 @@ namespace Guardian
 
         public static void Display()
         {
-            Console.WriteLine("Display Changed By Member One");
+            Console.WriteLine("Member one changed Display");
         }
     }
 }
